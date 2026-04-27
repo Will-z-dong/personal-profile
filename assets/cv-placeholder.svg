@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1700" viewBox="0 0 1200 1700" fill="none">
+  <rect width="1200" height="1700" fill="#f4f6fb"/>
+  <rect x="80" y="70" width="1040" height="1560" fill="white" stroke="#CBD5E1"/>
+  <text x="600" y="180" text-anchor="middle" fill="#0F172A" font-size="56" font-family="Georgia, serif">CV Image Placeholder</text>
+  <text x="600" y="260" text-anchor="middle" fill="#334155" font-size="30" font-family="Inter, Arial, sans-serif">Please add your uploaded CV image to assets/cv.png</text>
+  <text x="600" y="320" text-anchor="middle" fill="#334155" font-size="30" font-family="Inter, Arial, sans-serif">and refresh this page.</text>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1100" viewBox="0 0 900 1100" fill="none">
+  <rect width="900" height="1100" fill="url(#bg)"/>
+  <rect x="120" y="100" width="660" height="900" rx="36" fill="rgba(255,255,255,0.08)" stroke="rgba(255,255,255,0.35)"/>
+  <circle cx="450" cy="430" r="170" fill="rgba(255,255,255,0.2)"/>
+  <rect x="255" y="620" width="390" height="230" rx="120" fill="rgba(255,255,255,0.18)"/>
+  <text x="450" y="970" text-anchor="middle" fill="white" font-size="34" font-family="Inter, Arial, sans-serif">Add portrait as assets/avatar.png</text>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="900" y2="1100" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#12294f"/>
+      <stop offset="1" stop-color="#0a1629"/>
+    </linearGradient>
+  </defs>
+</svg>
